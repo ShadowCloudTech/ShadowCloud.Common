@@ -3,8 +3,11 @@
  */
 package shadow.cloud.tech.common;
 
+import com.google.gson.Gson;
+
 public class Library {
     public boolean someLibraryMethod() {
         return true;
+
     }
 }
